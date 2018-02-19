@@ -5,7 +5,8 @@ local acuNames = {
 	'Commander Pegasus',
 	'Peggy',
 	'PegaSaltScourge',
-	'[ONI] PegasusScourge'
+	'[ONI] PegasusScourge',
+  'Komrade Pegasus'
 }
 
 local expNames = {
